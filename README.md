@@ -1,3 +1,6 @@
+<img width="2986" height="1686" alt="image" src="https://github.com/user-attachments/assets/85af4839-cc41-4c6a-a48c-28133acfbc1e" />
+
+
 # Peregrinari
 This is a Svelte single-page application that aims to highlight incidence of violence and foreign exchange rates for countries around the world. 
 Data is shown in both map form and tabular form.
