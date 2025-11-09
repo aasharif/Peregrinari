@@ -24,6 +24,8 @@ Data can be access via the API at https://data360.worldbank.org/en/api
 and by way of the https://data.worldbank.org search page.
 
 This application is in no way endorsed or sponsored by the World Bank.
+Neither this application nor its author is in any way endorsed or 
+sponsored by the World Bank.
 
 Official exchange rate (LCU per US$, period average)
 International Financial Statistics database, International Monetary Fund ( IMF ): 
