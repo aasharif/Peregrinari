@@ -29,7 +29,6 @@
   export let minValue = 0;
   export let maxValue = 255;
   export let noDataColor = "#f0f0f0";
-  export let showTooltip = true;
   export let strokeColor = "#000000";
   export let strokeWidth = "0.5";
 
@@ -143,15 +142,6 @@
 
 <div class="world-map-container">
   <div bind:this={svgContainer} class="svg-wrapper"></div>
-
-  {#if showTooltip && tooltip.show}
-    <div
-      class="tooltip"
-      style="left: {tooltip.x + 10}px; top: {tooltip.y + 10}px;"
-    >
-      <strong>{tooltip.country}</strong>: {tooltip.value}
-    </div>
-  {/if}
 </div>
 
 <!-- Dynamic styles injected here -->
