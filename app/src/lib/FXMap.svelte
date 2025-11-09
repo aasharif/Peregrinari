@@ -14,9 +14,9 @@
  * GNU Affero General Public License for more details.
  *
  * You should have received a copy of the GNU Affero General Public 
-License
+ * License
  * along with this program. If not, see 
-<https://www.gnu.org/licenses/agpl-3.0.en.html>.
+ * <https://www.gnu.org/licenses/agpl-3.0.en.html>.
  */ -->
 <script>
   // Imports
