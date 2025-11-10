@@ -15,6 +15,10 @@ Data is shown in both map form and tabular form.
 7. Run `npm run dev` while in the `app/` directory to start the app.
 8. Vite should launch and give the localhost port to access (e.g. http://localhost:5173/)
 
+# Map Credit
+The SVG world map used can be located at https://commons.wikimedia.org/wiki/File:BlankMap-World.svg. It was released into
+the public domain.
+
 # Creative Commons Attibution
 
 Data from the World Bank is licensed via Creative Commons 4.0 Attribution
