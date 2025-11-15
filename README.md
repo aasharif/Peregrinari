@@ -15,6 +15,8 @@ Data is shown in both map form and tabular form.
 7. Run `npm run dev` while in the `app/` directory to start the app.
 8. Vite should launch and give the localhost port to access (e.g. http://localhost:5173/)
 
+*Note: One can also use `npm build` to build the application for running in other enivronment. As anticipated, `npm run dev` is just to get the app up and running quickly in a browser.*
+
 # Map Credit
 The SVG world map used can be located at https://commons.wikimedia.org/wiki/File:BlankMap-World.svg. It was released into
 the public domain.
