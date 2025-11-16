@@ -57,7 +57,7 @@
     </tbody>
   </table>
 {:else}
-  <p>Error: Violence data is not available or has wrong format</p>
+  <p>Error: FX data is not available or has wrong format</p>
 {/if}
 
 <style>
