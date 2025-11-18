@@ -56,7 +56,7 @@ function processJSON(filePath, jsonFilename) {
             // console.log('Parsed JSON data:', jsonData[1]);
 
             // Build the JSON and JSON array for 
-            // the map and table respoectively
+            // the map and table respectively
             let newJSONDataMap = "{\n"
             let newJSONDataTable = "[{\n"
             for ( let j = 0; j < jsonData[1].length; j++){
@@ -89,7 +89,7 @@ function processJSON(filePath, jsonFilename) {
             newJSONDataMap = newJSONDataMap + "}\n";
             newJSONDataTable = newJSONDataTable + "}]\n"
             // Build the JSON and JSON array for 
-            // the map and table respoectively
+            // the map and table respectively
 
             writeFileSync(`${jsonFilename}_map.json`, newJSONDataMap, null)
             writeFileSync(`${jsonFilename}_table.json`, newJSONDataTable, null)
